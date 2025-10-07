@@ -1,0 +1,28 @@
+para crear un nuevo proyecto:
+dotnet new webapi --use-controllers -o MiWebApi
+
+Para correr y modificar y que los cambios se vean sin tenr que tirar y volver a correr la API
+dotnet watch run --project .\MiWebApi\
+
+Para correr 
+dotnet run
+
+para correr en una terminal emergente
+wt dotnet run
+
+ruta del swagger
+http://localhost:5030/swagger
+
+
+ tl2-tp1-2024-agos4567
+ persona de la quien robar los tps
+
+https://www.toptal.com/developers/gitignore
+generara el archivo gitignore
+
+
+$ git checkout -b tp2
+para crar una nueva rama y cambiar a ella
+
+git checkout nombre-rama
+para cambiar a una rama en espesifico
